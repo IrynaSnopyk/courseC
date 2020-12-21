@@ -2,6 +2,7 @@
 
 typedef int Int_type;
 typedef unsigned int Un_Int_type;
+typedef void Void_type;
 typedef float Float_type;
 typedef double Double_type;
 typedef long long int LL_Int_type;
